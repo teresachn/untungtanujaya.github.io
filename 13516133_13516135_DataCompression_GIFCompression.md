@@ -1,4 +1,3 @@
-# untungtanujaya.github.io
 
 # GIFCompression
 Graphics Interchange Format (GIF) adalah format grafis yang sering digunakan untuk keperluan desain situs web. GIF memiliki kombinasi warna lebih sedikit dibanding JPEG, tetapi mampu menyimpan grafis dengan latar belakang (background) transparan ataupun dalam bentuk animasi sederhana.
